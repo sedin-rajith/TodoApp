@@ -1,6 +1,7 @@
 import React from "react";
 
 function Completed({ completedItems, handleUndo }) {
+    
   return (
     <div>
       <ul className="completed-tasks">
